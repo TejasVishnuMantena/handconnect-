@@ -34,21 +34,6 @@ An advanced hand-tracking visualizer with:
 
 ---
 
-## 2️⃣ X-Ray Vision Portal Engine (`xrayvision.html`)
-
-A futuristic sci-fi body visualization system featuring:
-
-- MediaPipe Holistic tracking
-- X-ray style body rendering
-- Neural particle system
-- Portal interaction mechanics
-- HUD overlays
-- Body skeleton visualization
-- Glitch effects
-- Scanline animations
-- Energy streams and sparks
-
----
 
 # 🛠️ Technologies Used
 
